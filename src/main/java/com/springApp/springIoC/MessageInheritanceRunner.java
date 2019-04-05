@@ -4,7 +4,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * entry point
+ * Entry point
  * @author Ihor Savchenko
  * @version 1.0
  */

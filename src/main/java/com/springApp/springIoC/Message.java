@@ -1,7 +1,7 @@
 package com.springApp.springIoC;
 
 /**
- * Model
+ * This class is parent in xml configuration
  * @author Ihor Savchenko
  * @version 1.0
  */

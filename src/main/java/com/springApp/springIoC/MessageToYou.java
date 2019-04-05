@@ -1,7 +1,7 @@
 package com.springApp.springIoC;
 
 /**
- * Model
+ * This class is successor of Message in xml configuration
  * @author Ihor Savchenko
  * @version 1.0
  */
